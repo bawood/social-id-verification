@@ -5,7 +5,6 @@ __pycache__/
 
 # Config Files #
 ################
-settings.py
 certs/
 
 # Log Files #
