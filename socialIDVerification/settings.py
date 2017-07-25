@@ -1,5 +1,6 @@
 import sys
 from decouple import config
+from dj_database_url import parse as db_url
 from unipath import Path
 
 # SECURITY WARNING: keep the secret key used in production secret!
